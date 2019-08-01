@@ -4,6 +4,8 @@
 <title>JSP - Hello World Tutorial - Programmer Gate</title>
 </head>
 <body>
-<%= "Hello, Welcome to Valaxy Technologies !!!" %>
+<%= "*************************************************" %>
+<%= "*** Hello, Welcome to Valaxy Technologies !!! ***" %>
+<%= "*************************************************" %>
 </body>
 </html>
