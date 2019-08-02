@@ -1,14 +1,3 @@
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>JSP - Hello World Tutorial - Programmer Gate</title>
-</head>
-<body>
-<%= "******************************************" %>
-<br />
-<%= "*** Hello, Welcome to Valaxy Technologies !!! ***" %>
-<br />
-<%= "******************************************" %>
-<br />
-</body>
-</html>
+<a href="login.jsp">login</a>|  
+<a href="logout.jsp">logout</a>|  
+<a href="profile.jsp">profile</a>  
