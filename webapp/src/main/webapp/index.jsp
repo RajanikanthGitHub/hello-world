@@ -13,7 +13,6 @@
 </br>
 <%= "*************************************************" %></br>
 <%= "*** Hello, Welcome to Valaxy Technologies !!! ***" %></br>
-<%= "* Deployment throuhg Jekins on docker container *" %></br>
 <%= "*************************************************" %></br>
 </body>
 </html>
